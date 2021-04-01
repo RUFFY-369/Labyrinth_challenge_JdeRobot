@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ruffy-369/c++_challenge/labyrinth_challenge.cpp
+iostream
+-
+fstream
+-
+stack
+-
+algorithm
+-
+string
+-
+vector
+-
+queue
+-
+
